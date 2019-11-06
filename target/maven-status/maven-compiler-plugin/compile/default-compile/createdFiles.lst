@@ -1,0 +1,6 @@
+com\sba\batch\client\CourseClient.class
+com\sba\batch\model\BatchCourse.class
+com\sba\batch\task\SchedulePayment.class
+com\sba\batch\mapper\PaymentBatchMapper.class
+com\sba\batch\model\BatchPayment.class
+com\sba\batch\SbaBatchApplication.class
